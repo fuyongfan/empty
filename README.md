@@ -11,7 +11,9 @@
 - npm scripts 统一的任务构建
 - react组件化的基础类库
 - mocha 
-- karma
+- karma  
+
+
 ## 基本命令
 
 ```
